@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Atmosphere</string>
+    <string name="dust">Dust</string>
+    <string name="map">Map</string>
+    <string name="setting">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_dust">Dust Density</string>
+    <string name="unit_dust">µg/m³</string>
+    <string name="latlng">Latitude,Longitude</string>
+    <string name="aqi">downloading</string>
+    <string name="aqi_status">downloading </string>
+
+    <string name="very_good">Very good, No health risk. </string>
+    <string name="good">Good, Little to no health risk. </string>
+    <string name="moderate">Moderate, Sensitive individuals may experience irritations. </string>
+    <string name="unhealthy_some">Unhealthy for sensitive groups. </string>
+    <string name="unhealthy">Very Unhealthy, Everyone can be affected.</string>
+
+    <string name="notify_content">The density of the dust is higher than specified.</string>
+    <string name="saved">Saved</string>
+    <string name="internet_off">Offline</string>
+    <string name="internet_on">Online</string>
+
+</resources>

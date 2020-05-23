@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorStart">#4776E6</color>
+    <color name="colorEnd">#8E54E9</color>
+    <color name="normalText">#FFFFFF</color>
+    <color name="selectedText">#FFFFFF</color>
+
+    <color name="very_good">#008080</color>
+    <color name="good">#00FF00</color>
+    <color name="normal">#FFFF00</color>
+    <color name="bad">#FF0000</color>
+    <color name="very_bad">#800000</color>
+
+</resources>

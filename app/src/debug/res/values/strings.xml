@@ -1,0 +1,5 @@
+<resources>
+    <string name="notification_header">Notifications</string>
+    <string name="notification_title">Danger Notification</string>
+    <string name="level_title">Dust level (µg/m³)</string>
+</resources>

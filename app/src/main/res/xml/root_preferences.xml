@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/notification_header">
+
+        <SwitchPreferenceCompat
+            app:key="notify"
+            app:title="@string/notification_title" />
+
+        <EditTextPreference
+            android:key="level"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/level_title"
+            app:dependency="notify"
+            android:inputType="number"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

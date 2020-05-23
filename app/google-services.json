@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250596861117",
+    "firebase_url": "https://pm25-d6ad1.firebaseio.com",
+    "project_id": "pm25-d6ad1",
+    "storage_bucket": "pm25-d6ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250596861117:android:78130575431c1aa66c03d4",
+        "android_client_info": {
+          "package_name": "com.pongsakornstudio.Atmosphere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250596861117-7r4eopeqign2m351i2i0ef4bjf7vfqpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATlbdlvfmDjFqP17AaboITsuXis3rnxD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250596861117-7r4eopeqign2m351i2i0ef4bjf7vfqpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
